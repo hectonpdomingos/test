@@ -1,2 +1,2 @@
 # test
-Test Repo
+Simple test repo
